@@ -1,0 +1,5 @@
+Conducted an analysis to explore the relationship between academic performance and food preparation habits among UCR students. We would like to understand how eating habits such as cooking frequency, eating out frequency, and dietary preferences could potentially correlate with student GPAs and their overall learning effectiveness.
+
+To analyze the relationship we are using data collected on student GPA, number of units taken, major, dietary preference, frequency of cooking and eating out, and reasons for not cooking. To examine studying effectiveness, we will also look at data on how well students learn through class, groups, and self-studying.
+
+We would like to know if students who cook more frequently tend to perform better academically, if learning styles have a relationship with cooking frequency, and if the number of units taken has an effect on eating out frequency. Understanding these connections can determine if students who develop specific eating habits can increase their academic success.
